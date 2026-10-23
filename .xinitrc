@@ -2,4 +2,4 @@
 
 xterm &
 
-exec "/usr/local/bin/full-wm"
+exec full-wm
